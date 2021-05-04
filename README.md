@@ -2,6 +2,8 @@
 
 <!--
 **wbxl2000/wbxl2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbxl2000)](https://github.com/anuraghazra/github-readme-stats)
+https://github.com/anuraghazra/github-readme-stats/blob/master/docs/readme_cn.md
 
 Here are some ideas to get you started:
 
@@ -24,4 +26,5 @@ Here are some ideas to get you started:
 - 📫 e-mail: qilongyu@126.com, WeChat: wbxl2000
 - 🎈 [语雀博客](https://www.yuque.com/qer233/qer_design)，微信公众号：QER DESIGN
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbxl2000)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
