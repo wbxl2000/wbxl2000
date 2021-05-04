@@ -23,3 +23,5 @@ Here are some ideas to get you started:
 - ⚡ 喜欢写文、阅读
 - 📫 e-mail: qilongyu@126.com, WeChat: wbxl2000
 - 🎈 [语雀博客](https://www.yuque.com/qer233/qer_design)，微信公众号：QER DESIGN
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wbxl2000)](https://github.com/anuraghazra/github-readme-stats)
