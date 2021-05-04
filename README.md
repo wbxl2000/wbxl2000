@@ -15,12 +15,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-  ~~正在寻求前端开发的实习岗位~~ 
 -->
 
 
 - 🔭 目前就读于山东大学计算机学科与技术专业
 - 🌱 正在学习前端技术，喜欢可视化，热爱与致力于提升用户体验
-- 👯 ~~正在寻求前端开发的实习岗位~~ 腾讯会议前端开发工程师（实习）
+- 👯 腾讯会议前端开发工程师（实习）
 - 🤔 希望能有UX/HCI的进阶学习机会
 - ⚡ 喜欢写文、阅读
 - 📫 e-mail: qilongyu@126.com, WeChat: wbxl2000
