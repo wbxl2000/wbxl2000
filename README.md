@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--  ~~正在寻求前端开发的实习岗位~~ 
 -->
 
 
 - 🔭 目前就读于山东大学计算机科学与技术专业
-- 🌱 正在学习前端技术，喜欢可视化，热爱与致力于提升用户体验
-- 👯 腾讯会议实时音视频 前端开发工程师
-- 🤔 希望能有UX/HCI的进阶学习机会
-- ⚡ 喜欢写文、阅读
+- 🌱 持续学习前端技术，喜欢可视化，热爱与致力于提升用户体验
+- ⚡ 最近在搞前端的数字图像处理 dip 领域
+- 👯 即刻 @小头发
 - 📫 e-mail: qilongyu@126.com, WeChat: wbxl2000
 - 🎈 [语雀博客](https://www.yuque.com/qer233/qer_design)，微信公众号：QER DESIGN
 
