@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 - 🌱 SDU CS
-- ⚡ Front-end developer & Designer in plan
+- ⚡ Front-end developer & Designer
 - 📫 e-mail: wbxl2000@126.com, WeChat: wbxl2000
 <!-- - 👯 即刻 @小头发 -->
 <!-- - 🌱 持续学习前端技术，喜欢可视化，热爱与致力于提升用户体验 -->
