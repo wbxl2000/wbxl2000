@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 
 <!-- - 🌱 SDU CS -->
+- 🔭 Focus on front end and color.
 - 🌱 Working at Tencent Meeting.
-- 🔭 Focus on front end and color design.
 - 📫 Mail me at hi [at] qer.im.
 <!-- - 👯 即刻 @小头发 -->
 <!-- - 🌱 持续学习前端技术，喜欢可视化，热爱与致力于提升用户体验 -->
