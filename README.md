@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 
 <!-- - 🌱 SDU CS -->
-- 🔭 Focus on front end and color.
+- 🔭 Focus on front end.
 - 🌱 Working at Tencent Meeting.
 - 📫 Mail me at hi [at] qer.im.
 <!-- - 👯 即刻 @小头发 -->
