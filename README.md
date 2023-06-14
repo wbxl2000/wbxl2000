@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 
 <!-- - 🌱 SDU CS -->
-- 🔭 Focus on front end.
-- 🌱 Working at Tencent Meeting.
+- 🔭 Tech-focused on UX/DX.
+- 🌱 Working at [Tencent RTC](https://github.com/LiteAVSDK/TRTC_Web/).
 - 📫 Mail me at hi [at] qer.im.
 <!-- - 👯 即刻 @小头发 -->
 <!-- - 🌱 持续学习前端技术，喜欢可视化，热爱与致力于提升用户体验 -->
