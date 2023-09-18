@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 
 <!-- - 🌱 SDU CS -->
-- 🔭 Tech-focused on UX/DX.
-- 🌱 Working at [Tencent RTC](https://github.com/LiteAVSDK/TRTC_Web/).
-- 💖 Passionate about coding.
+- 🔭 Tech-focused on UX/DX
+- 💖 Passionate about coding
+- 🌱 Working at [Tencent RTC](https://github.com/LiteAVSDK/TRTC_Web/)
 - 🙌 Personal site: [www.qer.im](https://qer.im)
-- 📫 Reach me via hi@qer.im.
+- 📫 Reach me via hi@qer.im
 <!-- - 👯 即刻 @小头发 -->
 <!-- - 🌱 持续学习前端技术，喜欢可视化，热爱与致力于提升用户体验 -->
 <!-- - ⚡ 最近在搞前端的数字图像处理 dip 领域 -->
