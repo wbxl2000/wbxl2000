@@ -17,17 +17,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<!-- - 🌱 SDU CS -->
-- 🔭 Tech-focused on UX/DX
-- 💖 Passionate about coding
-- 🌱 Working at [Tencent RTC](https://github.com/LiteAVSDK/TRTC_Web/)
-- 🙌 Personal site: [www.qer.im](https://qer.im)
-- 📫 Reach me via hi@qer.im
-<!-- - 👯 即刻 @小头发 -->
-<!-- - 🌱 持续学习前端技术，喜欢可视化，热爱与致力于提升用户体验 -->
-<!-- - ⚡ 最近在搞前端的数字图像处理 dip 领域 -->
-<!-- - 🎈 [语雀博客](https://www.yuque.com/qer233/qer_design)，微信公众号：QER DESIGN -->
+<table style="border-collapse: collapse;">
+  <tr>
+    <td style="border: 1px solid transparent;">💖 Passionate about coding</td>
+    <td style="border: 1px solid transparent;">🌱 Working at <a href="https://github.com/LiteAVSDK/TRTC_Web/">Tencent RTC</a></td>
+  </tr>
+  <tr>
+    <td style="border: 1px solid transparent;">🌍 Personal site: <a href="https://qer.im">www.qer.im</a></td>
+    <td style="border: 1px solid transparent;">📫 Reach me via hi@qer.im</td>
+  </tr>
+</table>
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
