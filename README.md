@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table style="border-collapse: collapse;">
+<table style="border-collapse: collapse; border-radius: 0.375rem;">
   <tr>
-    <td style="border: 1px solid transparent;">💖 Passionate about coding</td>
-    <td style="border: 1px solid transparent;">🌱 Working at <a href="https://github.com/LiteAVSDK/TRTC_Web/">Tencent RTC</a></td>
+    <td>💖 Passionate about coding</td>
+    <td>🌱 Working at <a href="https://github.com/LiteAVSDK/TRTC_Web/">Tencent RTC</a></td>
   </tr>
   <tr>
-    <td style="border: 1px solid transparent;">🌍 Personal site: <a href="https://qer.im">www.qer.im</a></td>
-    <td style="border: 1px solid transparent;">📫 Reach me via hi@qer.im</td>
+    <td>🌍 Personal site: <a href="https://qer.im">www.qer.im</a></td>
+    <td>📫 Reach me via hi@qer.im</td>
   </tr>
 </table>
 
