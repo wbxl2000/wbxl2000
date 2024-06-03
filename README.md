@@ -24,7 +24,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td>🌍 Personal site: <a href="https://qer.im">www.qer.im</a></td>
-    <td>📫 Reach me via hi@qer.im</td>
+    <td>📫 Reach me via qilongyu@126.com </td>
   </tr>
 </table>
 
