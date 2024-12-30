@@ -28,5 +28,6 @@ Here are some ideas to get you started:
   </tr>
 </table>
 
+![](https://komarev.com/ghpvc/?username=wbxl2000&label=views-count)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
